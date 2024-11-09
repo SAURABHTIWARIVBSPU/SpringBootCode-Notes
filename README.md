@@ -55,16 +55,5 @@ cd SpringBootCode-Notes
    mvn spring-boot:run
 
    
-### Notes:
-- **Profile Image**: Make sure that the image path in the markdown (`hj.PNG`) matches the actual location of the image in your repository. If the image is stored in a different folder or has a different name, update the path accordingly.
-  
-  For example:
-  - If the image is stored in an `images` folder: 
-    ```markdown
-    ![Profile Image](images/profile.jpg)
-    ```
-- You can also use an external image URL if you prefer not to upload it directly to the repository, e.g.:
-  ```markdown
-  ![Profile Image](https://example.com/profile.jpg)
 
 
