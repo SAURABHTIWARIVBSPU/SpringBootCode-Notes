@@ -16,7 +16,7 @@ Feel free to clone, experiment, and contribute! 🚀
 
 ## About Me
 
-![Profile Image](assets/hj.PNG)  <!-- Make sure this path is correct -->
+![Profile Image](hj.png)  <!-- Make sure this path is correct -->
 
 Hi, I'm **Saurabh Tiwarivbspu**, a passionate Java developer with a strong focus on **Spring Boot** and related technologies. I'm always eager to learn, experiment, and build new things. This repository is a part of my ongoing journey to share useful resources and learnings with the developer community.
 
